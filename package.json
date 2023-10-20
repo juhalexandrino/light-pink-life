@@ -1,0 +1,31 @@
+{
+  "name": "light-pink-life",
+  "displayName": "light-pink-life",
+  "description": "living the ultimate light pink life ♡",
+  "version": "0.0.2",
+  "publisher": "juhalexandrino",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/light-pink-life-logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "light pink life",
+        "uiTheme": "vs",
+        "path": "./themes/light pink life-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "",
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juhalexandrino/light-pink-life-theme.git"
+  }
+}
